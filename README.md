@@ -11,4 +11,5 @@
 |CAM|
 |faster R-CNN|
 |Object detection|
+|Fully Convolutional Networks for Semantic Segmentation|
 
