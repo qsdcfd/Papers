@@ -4,7 +4,7 @@
 
 
 |Paper||Project|
-|---||---|
+|---| |---|
 |ResNet||Ablation Study|
 |DenseNet||Ablation Study|
 |Data augmentation||CutMix, Mixup|
